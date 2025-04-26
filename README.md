@@ -56,7 +56,4 @@ PowerPoint: For presenting key insights and strategic recommendations.
 Contributions are welcome!
 Feel free to fork this repository and submit a pull request with your improvements or suggestions.
 
-📞 Contact
-For questions or collaboration opportunities, feel free to reach out via GitHub or email.
-
 Thank you for exploring the Vrinda Cloth Store Data Analysis Project! 😊
